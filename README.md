@@ -48,3 +48,5 @@ Helps identify health-conscious product options
 Supports menu optimization strategies
 Enables quick comparison of nutritional values
 Demonstrates how data can drive customer-focused decisions
+## 🔗 LinkedIn Post  
+https://www.linkedin.com/posts/maseera-firdose_powerbi-dataanalytics-dashboarddesign-share-7470868882472210432-rWTJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACluBGcBLqxGScFg2RhC0jFQ5rMTshBj_nE
